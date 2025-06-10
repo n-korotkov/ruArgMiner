@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cu124
+
+setuptools == 73.*
+spacy[cuda12x] == 3.7.*
+torch == 2.5.*
+scikit-learn == 1.6.*
+transformers[torch] == 4.51.*
+sentence-transformers == 3.4.*
+matplotlib == 3.9.*
+datasets == 3.2.*
+
+https://github.com/explosion/spacy-models/releases/download/ru_core_news_lg-3.7.0/ru_core_news_lg-3.7.0-py3-none-any.whl

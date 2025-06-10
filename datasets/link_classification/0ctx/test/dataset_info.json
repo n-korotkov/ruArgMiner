@@ -1,0 +1,36 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "fragment1_left": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "fragment1": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "fragment1_right": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "fragment2_left": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "fragment2": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "fragment2_right": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

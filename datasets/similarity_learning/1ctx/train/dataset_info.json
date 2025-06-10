@@ -1,0 +1,44 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "anchor_left": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "anchor": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "anchor_right": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "positive_left": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "positive": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "positive_right": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "negative_left": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "negative": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "negative_right": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
